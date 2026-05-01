@@ -19,6 +19,5 @@ python todo_list.py
 
 Examiner can access the code here:
 
-https://github.com/Ezekiel2201/Bincom-test.git
-
+https://github.com/Ezekiel2201/Ezekiel2201
 
