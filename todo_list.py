@@ -1,13 +1,4 @@
-GITHUB_REPO_URL = "https://github.com/Ezekiel2201/Bincom-test.git"
-
 todo_list = []
-
-def print_welcome_message():
-    print("Welcome to the Python To Do List application!")
-    print("Source code repository:")
-    print(GITHUB_REPO_URL)
-    print()
-
 
 def add_task():
     task = input("Enter a new task: ")
